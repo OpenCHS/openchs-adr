@@ -11,7 +11,7 @@ Accepted
 When we started OpenCHS, we wanted to choose between native development and React Native. The reasons to choose RN are
  - React-Native is mature
  - It has a comparatively lower learning curve for the team
- - Development cycles are faster compared to native 
+ - Development cycles are faster compared to native
 
 ## Decision
 

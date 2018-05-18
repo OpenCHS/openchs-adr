@@ -1,4 +1,4 @@
-# 2. Use React-Native
+# 3. Use React-Native
 
 Date: 2018-05-16
 

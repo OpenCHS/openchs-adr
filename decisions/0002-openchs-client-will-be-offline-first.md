@@ -1,4 +1,4 @@
-# 10. openchs-client will be offline-first
+# 2. openchs-client will be offline-first
 
 Date: 2018-05-16
 

@@ -1,4 +1,4 @@
-# 6. Use monorepo for client
+# 8. Use monorepo for client
 
 Date: 2018-05-16
 

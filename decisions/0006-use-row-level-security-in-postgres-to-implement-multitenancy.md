@@ -1,4 +1,4 @@
-# 4. Use row-level-security in Postgres to implement multitenancy
+# 6. Use row-level-security in Postgres to implement multitenancy
 
 Date: 2018-05-16
 

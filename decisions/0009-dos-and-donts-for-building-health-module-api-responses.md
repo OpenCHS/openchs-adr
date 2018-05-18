@@ -1,4 +1,4 @@
-# 8. Dos and donts for building health-module api responses
+# 9. Dos and donts for building health-module api responses
 
 Date: 2018-05-16
 
